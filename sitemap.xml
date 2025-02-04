@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://alvingogo.github.io/2025/02/04/2024-4/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://alvingogo.github.io/2025/02/03/2024-3/</loc>
     
     <lastmod>2025-02-03</lastmod>
@@ -31,7 +40,7 @@
 
   <url>
     <loc>https://alvingogo.github.io/</loc>
-    <lastmod>2025-02-03</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
