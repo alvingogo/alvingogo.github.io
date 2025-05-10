@@ -6,7 +6,7 @@
   <link href="https://alvingogo.github.io/atom.xml" rel="self"/>
   
   <link href="https://alvingogo.github.io/"/>
-  <updated>2025-04-18T10:17:06.481Z</updated>
+  <updated>2025-05-10T15:26:12.084Z</updated>
   <id>https://alvingogo.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>30 天挑戰 day 0</title>
+    <link href="https://alvingogo.github.io/2025/05/10/music-0/"/>
+    <id>https://alvingogo.github.io/2025/05/10/music-0/</id>
+    <published>2025-05-10T14:58:56.000Z</published>
+    <updated>2025-05-10T15:26:12.084Z</updated>
+    
+    <content type="html"><![CDATA[<p>嗨，呃，因為最近有點無聊所以想要來做點人生小嘗試。大致上透過寫文章來分享自己喜歡的東西等等。</p><p>剛好有一天在網路上看到了這張圖就來做個挑戰吧。<br><img src="/images/songs.png"></p><p>另外每首歌會有一個編號，英文歌的話是三位數的流水號，日文歌的話是四位數的，呃，hash value(?，至於 hash function 是怎麼運作的會在當天的文章中提到，如果有人有興趣的話歡迎嘗試破解，目前的經驗是有些人覺得還蠻有趣的，自己講(X。</p><p>絕對不是修密碼學導論導致的，絕對不是啦，密碼學導論修完才不會弄這麼好破解的加密方式啦喵。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;嗨，呃，因為最近有點無聊所以想要來做點人生小嘗試。大致上透過寫文章來分享自己喜歡的東西等等。&lt;/p&gt;
+&lt;p&gt;剛好有一天在網路上看到了這張圖就來做個挑戰吧。&lt;br&gt;&lt;img src=&quot;/images/songs.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;另外每首歌會有一個編號，英文歌的話是三</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2024 回顧（十二）</title>
