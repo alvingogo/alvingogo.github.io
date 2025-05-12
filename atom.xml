@@ -6,7 +6,7 @@
   <link href="https://alvingogo.github.io/atom.xml" rel="self"/>
   
   <link href="https://alvingogo.github.io/"/>
-  <updated>2025-05-11T15:46:29.666Z</updated>
+  <updated>2025-05-12T15:18:24.465Z</updated>
   <id>https://alvingogo.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>30 天挑戰 day 2</title>
+    <link href="https://alvingogo.github.io/2025/05/12/music-2/"/>
+    <id>https://alvingogo.github.io/2025/05/12/music-2/</id>
+    <published>2025-05-12T14:07:06.000Z</published>
+    <updated>2025-05-12T15:18:24.465Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/songs.png"></p><h1 id="基本資訊"><a href="#基本資訊" class="headerlink" title="基本資訊"></a>基本資訊</h1><ul><li>曲名：8.8</li><li>編號：8841</li><li>原唱：あたらよ</li></ul><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>這是我第一次接觸到あたらよ這個樂團的歌，也完美契合今天的主題（由數字組成的歌名）。歌詞簡單，也因此很有記憶點。記得第一次聽到第一段副歌「今更になってさ」時，就有一股熟悉的感覺湧了上來，我感覺我好像在哪裡聽過他，雖然我很肯定我不應該要有這樣的印象。嗯，或許人就是這樣被熟悉的感覺牽著鼻子走吧。</p><p>這首歌的 hash value 也有點有趣，一開始是 8836，前面的 88 很直覺的就來自歌名與歌詞第一句「8.8畳の部屋」，那 36 是怎麼來的呢？我在 hash 時因為有一個記憶是 8.8 疊大概是 3.6 坪，而這是根據這首歌的一個翻譯影片來的（對，我猜很多人接觸不熟悉的語言的音樂的渠道都也是從母語與翻譯開始）。但我現在回去找那個翻譯影片之後發現他只是翻成了「約 4 坪」，而且網路上大部分的網站都是這樣翻的。</p><p>但 4 不是一個二位數，<del>也不是一個平方數（數奧梗）</del>，而我又想要讓他成為一個二位數（因為他總共要是四位數），那怎麼辦？我就是自己算出來。於是我去查了維基百科等資料發現關於「畳」的大小有五種可能，1.82, 1.71, 1.65, 1.55, 1.44，單位是平方公尺，而我得猜出這是哪一種，而因為あたらよ的官方 Youtube 頻道開頭就說是以東京為中心活動，所以我猜很可能是東京在用的 1.55，那最後換成坪就是 8.8*1.55&#x2F;3.3 ~&#x3D; 4.1 坪，於是這個 hash value 就這樣定下來了。</p><p>順帶一提，上述的所有過程都發生在半小時內，而且費盡心思只為了編號這件事情還蠻有趣的。</p><h1 id="其他想推薦的歌"><a href="#其他想推薦的歌" class="headerlink" title="其他想推薦的歌"></a>其他想推薦的歌</h1><ul><li>Orangestar - 八十八鍵の宇宙 (covered by Orangestarを歌いたい)，hash value 8859，由來是直接把宇宙音譯成 59 XD。</li><li>レミオロメン - 3月9日 (covered by Lefty Handy Cream), hash value 3790，屬於越聽越喜歡的歌。</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/songs.png&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;基本資訊&quot;&gt;&lt;a href=&quot;#基本資訊&quot; class=&quot;headerlink&quot; title=&quot;基本資訊&quot;&gt;&lt;/a&gt;基本資訊&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;曲名：8.8&lt;/li&gt;
+&lt;li&gt;編號：</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>30 天挑戰 day 1</title>
